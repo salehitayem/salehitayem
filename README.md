@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Saleh</h1>
-<h3 align="center">A passionate Full stack developer from Palestine</h3>
+<h1 align="left">Hi 👋, I'm Saleh</h1>
+<h3 align="left">A passionate Full stack developer from Palestine</h3>
 
 - 🌱 I’m currently learning **CS50's Web Programming with Python and JavaScript**
 
