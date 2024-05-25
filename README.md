@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Saleh</h1>
 <h3 align="left">A passionate Full stack developer from Palestine</h3>
 
-- 🌱 I’m currently learning **NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)**
+- 🌱 I’m currently learning **NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)**.
 
 - 🌱 I finished **CS50's Introduction to Computer Science**
 
