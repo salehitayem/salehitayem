@@ -23,8 +23,3 @@ Welcome to my GitHub profile! I'm a **backend developer** with a passion for cre
 - **LinkedIn:** [www.linkedin.com/in/sitayem](www.linkedin.com/in/sitayem)
 - **LeetCode:** [https://leetcode.com/u/sitayem/](https://leetcode.com/u/sitayem/)
 
-## 📈 GitHub Stats
-
-![Saleh's GitHub stats](![Saleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=salehitayem&show_icons=true&theme=radical)
-)
-
