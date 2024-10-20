@@ -1,6 +1,6 @@
 # Hi there, I'm Saleh! 👋
 
-Welcome to my GitHub profile! I'm a **backend developer** with a passion for creating scalable and efficient web applications. I specialize in building robust backend services using technologies like **Flask**, **Node.js**, and **SQLAlchemy**. I’m continuously improving my skills and working on new projects that challenge me to grow as a developer.
+Welcome to my GitHub profile! I'm a **backend developer** with a passion for creating scalable and efficient web applications. I specialize in building robust backend services using technologies like **Flask**, and **SQLAlchemy**. I’m continuously improving my skills and working on new projects that challenge me to grow as a developer.
 
 ## 🚀 About Me
 
