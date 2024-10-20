@@ -1,14 +1,29 @@
-<h1 align="left">Hi 👋, I'm Saleh</h1>
-<h3 align="left">A passionate Full stack developer from Palestine</h3>
+# Hi there, I'm Saleh! 👋
 
-- 🌱 I’m currently learning **NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)**.
+Welcome to my GitHub profile! I'm a **backend developer** with a passion for creating scalable and efficient web applications. I specialize in building robust backend services using technologies like **Flask**, **Node.js**, and **SQLAlchemy**. I’m continuously improving my skills and working on new projects that challenge me to grow as a developer.
 
-- 🌱 I finished **CS50's Introduction to Computer Science**
+## 🚀 About Me
 
-- 📫 How to reach me **sitayem@outlook.com**
+- 💻 I'm currently a student at **Al-Quds Open University**, majoring in **Computer Information Systems**.
+- 🌱 I’m enhancing my backend development skills, with a focus on **microservices** and improving my **API design**.
+- 💡 I enjoy solving complex coding problems and developing real-world applications.
+- 📫 How to reach me: saleh@outlook.com
 
+## 🛠️ Technologies & Tools
 
-</p>
+- **Languages:** Python, TypeScript, JavaScript
+- **Frameworks:** Flask
+- **Databases:** MySQL, SQLite
+- **Other Tools:** Git, SQLAlchemy, Flask-JWT-Extended, Flask-Mail
+- **Operating Systems:** macOS, Linux, Windows
+- **Soft Skills:** Collaboration, Problem-solving, Teamwork
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## 📫 Connect With Me
+
+- **LinkedIn:** [www.linkedin.com/in/sitayem](www.linkedin.com/in/sitayem)
+- **LeetCode:** [https://leetcode.com/u/sitayem/](https://leetcode.com/u/sitayem/)
+
+## 📈 GitHub Stats
+
+![Saleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
