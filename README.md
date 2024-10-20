@@ -25,5 +25,6 @@ Welcome to my GitHub profile! I'm a **backend developer** with a passion for cre
 
 ## 📈 GitHub Stats
 
-![Saleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Saleh's GitHub stats](![Saleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=salehitayem&show_icons=true&theme=radical)
+)
 
