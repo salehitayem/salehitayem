@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I'm a **backend developer** with a passion for cre
 - **Operating Systems:** macOS, Linux, Windows
 - **Soft Skills:** Collaboration, Problem-solving, Teamwork
 
-## 📫 Connect With Me
+### 🚀 Links
 
-- **LinkedIn:** [www.linkedin.com/in/sitayem](www.linkedin.com/in/sitayem)
-- **LeetCode:** [https://leetcode.com/u/sitayem/](https://leetcode.com/u/sitayem/)
-
+- **Website**: [Sastimha](https://www.sastimha.com)
+- **LinkedIn**: [www.linkedin.com/in/sitayem](https://www.linkedin.com/in/sitayem)
+- **LeetCode**: [leetcode.com/u/sitayem](https://leetcode.com/u/sitayem)
